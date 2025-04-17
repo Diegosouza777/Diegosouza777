@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning analise e desenvolvimento de sistemas.
 - 💞️ I’m looking to collaborate on projetos variados, sites, banco de dados entre outros...
 - 📫 How to reach me www.linkedin.com/in/diego-geraldo-227168294
-- 😄 Pronouns: homem
+- 😄 Pronouns: homem lindo e inteligente
 - ⚡ Fun fact: Nas horas vagas sou tecnico em informatica como hobbie..
 
 <!---
